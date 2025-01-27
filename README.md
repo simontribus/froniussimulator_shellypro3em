@@ -1,4 +1,4 @@
-#froniussimulator_shellypro3em 
+# froniussimulator_shellypro3em
 
 Exposes the measurements of the Shelly Pro 3EM via Modbus TCP simulating a Fronius Smart Meter.
 Based on https://github.com/tichachm/fronius_smart_meter_modbus_tcp_emulator.
